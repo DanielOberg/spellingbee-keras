@@ -16,6 +16,7 @@ dash
 de
 do
 e
+fa
 fu
 ga
 ge

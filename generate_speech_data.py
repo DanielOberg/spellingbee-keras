@@ -11,39 +11,24 @@ AUTOMATIC_ALL_VOICES=False
 # good_voices = [] #AUTOMATIC !!
 good_voices = """
 Alex
-Alice
 Alva
 Amelie
-Anna
 Carmit
 Damayanti
 Daniel
-Diego
 Ellen
 Fiona
 Fred
-Ioana
-Joana
-Jorge
-Juan
 Kanya
 Karen
 Kyoko
-Laura
-Lekha
-Luca
-Luciana
 Maged
 Mariska
 Mei-Jia
 Melina
-Milena
 Moira
-Monica
 Nora
-Paulina
 Samantha
-Sara
 Satu
 Sin-ji
 Tessa
@@ -53,10 +38,6 @@ Veena
 Victoria
 Xander
 Yelda
-Yuna
-Yuri
-Zosia
-Zuzana
 """.split()
 # Ava Susan not found.
 
